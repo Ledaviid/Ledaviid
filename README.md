@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  David Trujillo
-- 👀 I’m interested in ...El desarrollo de software  y la  programacion.
-- 🌱 I’m currently learning ,el lenguaje C/C++ /C#/Java/python.
-- 💞️ I’m looking to collaborate on  algun trabajo donde desarrollar mis conocimientos en programacion y software.
+- 👀 I’m interested in  software development and your logistics application of each problem to be solved
+- 🌱 I’m currently learning ,el lenguaje C/C++ /C#/.ava/python
+- 💞️ I’m looking to collaborate on  an environment of collaborators where you apply knowledge
 - 📫 How to reach me ...
 
 <!---
